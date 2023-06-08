@@ -7,9 +7,9 @@ example:
 
 ```python
 from pytask import Task
-task = Task('screenshot',
+task = Task('screenshoot',
             urls,
-            action,
+            screenshoot_action,
             None,
             sleeptime=3)
 
